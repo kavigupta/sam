@@ -1,0 +1,13 @@
+metric,context,relationship,Compare Means,Compare Means [just matching],Mean of matching comparisons
+top 64 5mer overlap,LM-RBNS comparison,corresp.,0.18924,0.23264,0.27587
+top 64 5mer overlap,LM-RBNS comparison,random,0.08989,0.13156,0.23213
+top 64 5mer overlap,LM-RBNS comparison,non-corresp.,0.07487,0.12435,0.21343
+active position I/U,LM-RBNS comparison,corresp.,0.0684,0.07934,0.03806
+active position I/U,LM-RBNS comparison,random,0.04318,0.04904,0.02362
+active position I/U,LM-RBNS comparison,non-corresp.,0.03178,0.03892,0.01869
+top 64 5mer overlap,Swapped RBNS-RBNS comparison,corresp.,0.24132,0.24132,0.27012
+top 64 5mer overlap,Swapped RBNS-RBNS comparison,random,0.11632,0.17515,0.29491
+top 64 5mer overlap,Swapped RBNS-RBNS comparison,non-corresp.,0.09223,0.15603,0.24982
+active position I/U,Swapped RBNS-RBNS comparison,corresp.,0.1504,0.1504,0.04882
+active position I/U,Swapped RBNS-RBNS comparison,random,0.09273,0.10608,0.0613
+active position I/U,Swapped RBNS-RBNS comparison,non-corresp.,0.06718,0.07592,0.03653

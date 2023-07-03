@@ -1,0 +1,22 @@
+--threshold: 1e-10
+accuracy: 0.5; class correct: [0.0, 1001.0], class_total: [1001.0, 1001.0]
+--threshold: 1e-09
+accuracy: 0.499000999000999; class correct: [0.0, 999.0], class_total: [1001.0, 1001.0]
+--threshold: 1e-08
+accuracy: 0.4995004995004995; class correct: [5.0, 995.0], class_total: [1001.0, 1001.0]
+--threshold: 1e-07
+accuracy: 0.49100899100899104; class correct: [63.0, 920.0], class_total: [1001.0, 1001.0]
+--threshold: 1e-06
+accuracy: 0.5204795204795205; class correct: [323.0, 719.0], class_total: [1001.0, 1001.0]
+--threshold: 1e-05
+accuracy: 0.5574425574425574; class correct: [631.0, 485.0], class_total: [1001.0, 1001.0]
+--threshold: 0.0001
+accuracy: 0.5714285714285714; class correct: [846.0, 298.0], class_total: [1001.0, 1001.0]
+--threshold: 0.001
+accuracy: 0.5689310689310689; class correct: [943.0, 196.0], class_total: [1001.0, 1001.0]
+--threshold: 0.01
+accuracy: 0.5569430569430569; class correct: [992.0, 123.0], class_total: [1001.0, 1001.0]
+--threshold: 0.1
+accuracy: 0.5214785214785215; class correct: [1000.0, 44.0], class_total: [1001.0, 1001.0]
+--threshold: 0.2
+accuracy: 0.5114885114885115; class correct: [1000.0, 24.0], class_total: [1001.0, 1001.0]

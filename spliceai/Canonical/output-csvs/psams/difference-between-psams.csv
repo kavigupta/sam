@@ -1,0 +1,22 @@
+Model Name,Seed,Experiment,Train Error,Error
+AM_1,1,"Grad k=9, iterations=5000, optimizer_spec=Adam(1e-03)",1.3613454419825013,1.3608138806638905
+AM_1,1,"Grad k=9, iterations=10000, optimizer_spec=Adam(1e-03)",1.0543822512934304,1.0453963205807266
+AM_1,1,"Grad k=9, iterations=20000, optimizer_spec=Adam(1e-03)",0.9613167851379352,0.9556385048479504
+AM_2,1,"Grad k=9, iterations=5000, optimizer_spec=Adam(1e-03)",1.2821534873310694,1.284094738034613
+AM_2,1,"Grad k=9, iterations=10000, optimizer_spec=Adam(1e-03)",1.0127347645734766,1.0069474200692858
+AM_2,1,"Grad k=9, iterations=20000, optimizer_spec=Adam(1e-03)",0.9195413447462589,0.9106257628409543
+FM_1,1,"Grad k=9, iterations=5000, optimizer_spec=Adam(1e-03)",1.0723587312177616,1.0642632312791147
+FM_1,1,"Grad k=9, iterations=10000, optimizer_spec=Adam(1e-03)",0.7779048926510364,0.7638920969082202
+FM_1,1,"Grad k=9, iterations=20000, optimizer_spec=Adam(1e-03)",0.6686434434400892,0.6611902532979723
+AM_1,1,"Grad k=9, iterations=500, optimizer_spec=LBFGS(1e+00)",2.3947927661133104,2.394591389221636
+AM_1,1,"Grad k=9, iterations=1000, optimizer_spec=LBFGS(1e+00)",2.4377084634532653,2.435639951705109
+AM_1,1,"Grad k=9, iterations=2000, optimizer_spec=LBFGS(1e+00)",2.4376730738358527,2.435639951705109
+AM_2,1,"Grad k=9, iterations=500, optimizer_spec=LBFGS(1e+00)",7.227770266780106,7.232555154303213
+AM_2,1,"Grad k=9, iterations=1000, optimizer_spec=LBFGS(1e+00)",8.475152757661878,8.48285853994979
+AM_2,1,"Grad k=9, iterations=2000, optimizer_spec=LBFGS(1e+00)",8.474118969227407,8.482099925917948
+FM_1,1,"Grad k=9, iterations=500, optimizer_spec=LBFGS(1e+00)",5.210173616558672,5.202634523903572
+FM_1,1,"Grad k=9, iterations=1000, optimizer_spec=LBFGS(1e+00)",7.735914717485515,7.7202666145240935
+FM_1,1,"Grad k=9, iterations=2000, optimizer_spec=LBFGS(1e+00)",8.980239208932078,8.964933882514565
+AM_1,1,"DT num_runs=10, min_train=2000",2.5691851024355814,2.570280233214466
+AM_2,1,"DT num_runs=10, min_train=2000",2.648115130674534,2.643018113603835
+FM_1,1,"DT num_runs=10, min_train=2000",2.3714214320726827,2.414931565901399

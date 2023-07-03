@@ -1,0 +1,707 @@
+,metric,context,cluster,first,second,metric value
+0,top 64 5mer overlap,LM,1,LM13,HNRNPA2B1,0.140625
+1,top 64 5mer overlap,LM,1,LM14,ESRP1,0.375
+2,top 64 5mer overlap,LM,1,LM15,PCBP4,0.609375
+3,top 64 5mer overlap,LM,1,LM21,HNRNPA1L2,0.25
+4,top 64 5mer overlap,LM,1,LM22,ZC3H18,0.328125
+5,top 64 5mer overlap,LM,1,LM25,MSI1,0.265625
+6,top 64 5mer overlap,LM,1,LM37,SAFB2,0.359375
+7,top 64 5mer overlap,LM,1,LM41,UNK,0.15625
+8,top 64 5mer overlap,LM,1,LM45,HNRNPA1,0.234375
+9,top 64 5mer overlap,LM,1,LM50,RBM25,0.34375
+10,top 64 5mer overlap,LM,1,LM55,ESRP2,0.40625
+11,top 64 5mer overlap,LM,1,LM6,IGF2BP3,0.25
+12,top 64 5mer overlap,LM,1,LM72,PCBP2,0.296875
+13,top 64 5mer overlap,LM,1,LM77,NSUN2,0.328125
+14,top 64 5mer overlap,LM,1,LM89,Pcbp2_dr,0.265625
+15,top 64 5mer overlap,LM,1,A1CF,-,-
+16,top 64 5mer overlap,LM,1,HNRNPAB_tn,-,-
+17,top 64 5mer overlap,LM,1,HNRNPF,-,-
+18,top 64 5mer overlap,LM,1,HNRNPL,-,-
+19,top 64 5mer overlap,LM,1,HNRPLL,-,-
+20,top 64 5mer overlap,LM,1,IGF2BP1,-,-
+21,top 64 5mer overlap,LM,1,KHDRBS1,-,-
+22,top 64 5mer overlap,LM,1,KHDRBS1_mm,-,-
+23,top 64 5mer overlap,LM,1,KHDRBS2,-,-
+24,top 64 5mer overlap,LM,1,PABPC4,-,-
+25,top 64 5mer overlap,LM,1,PPP1R10,-,-
+26,top 64 5mer overlap,LM,1,PUF60,-,-
+27,top 64 5mer overlap,LM,1,PUM1,-,-
+28,top 64 5mer overlap,LM,1,RBM28,-,-
+29,top 64 5mer overlap,LM,1,RBMS1,-,-
+30,top 64 5mer overlap,LM,1,RBMS2,-,-
+31,top 64 5mer overlap,LM,1,RBMS3,-,-
+32,top 64 5mer overlap,LM,1,SNRPA,-,-
+33,top 64 5mer overlap,LM,2,LM10,PABPN1,0.109375
+34,top 64 5mer overlap,LM,2,LM67,RBM22,0.09375
+35,top 64 5mer overlap,LM,2,LM8,Rbm4.3_dr,0.34375
+36,top 64 5mer overlap,LM,2,LM94,ZC3H10,0.21875
+37,top 64 5mer overlap,LM,2,LM38,-,-
+38,top 64 5mer overlap,LM,2,LM69,-,-
+39,top 64 5mer overlap,LM,6,LM20,SRSF9,0.34375
+40,top 64 5mer overlap,LM,6,LM3,SRSF2,0.171875
+41,top 64 5mer overlap,LM,6,LM35,ZNF326,0.1875
+42,top 64 5mer overlap,LM,6,LM4,FXR1,0.390625
+43,top 64 5mer overlap,LM,6,LM40,PABPC5,0.4375
+44,top 64 5mer overlap,LM,6,LM42,FXR2,0.203125
+45,top 64 5mer overlap,LM,6,LM44,HNRNPK,0.265625
+46,top 64 5mer overlap,LM,6,LM56,FMR1,0.34375
+47,top 64 5mer overlap,LM,6,LM70,RBM47_gg,0.328125
+48,top 64 5mer overlap,LM,6,LM80,PABPC3,0.125
+49,top 64 5mer overlap,LM,6,LM9,SRSF1,0.4375
+50,top 64 5mer overlap,LM,6,LM91,RBFOX3,0.15625
+51,top 64 5mer overlap,LM,6,EIF4G2,-,-
+52,top 64 5mer overlap,LM,6,G3BP2,-,-
+53,top 64 5mer overlap,LM,6,RBM23,-,-
+54,top 64 5mer overlap,LM,6,RBM45,-,-
+55,top 64 5mer overlap,LM,6,RBM4B,-,-
+56,top 64 5mer overlap,LM,6,RBM5,-,-
+57,top 64 5mer overlap,LM,6,SNRNP70,-,-
+58,top 64 5mer overlap,LM,6,SUCLG1,-,-
+59,top 64 5mer overlap,LM,6,YBX1,-,-
+60,top 64 5mer overlap,LM,8,LM61,DAZAP1,0.25
+61,top 64 5mer overlap,LM,8,LM62,APOBEC3C,0.234375
+62,top 64 5mer overlap,LM,8,LM75,AKAP8L,0.484375
+63,top 64 5mer overlap,LM,8,LM92,Rbm47_xt,0.203125
+64,top 64 5mer overlap,LM,8,LM36,-,-
+65,top 64 5mer overlap,LM,8,LM48,-,-
+66,top 64 5mer overlap,LM,8,LM51,-,-
+67,top 64 5mer overlap,LM,8,LM65,-,-
+68,top 64 5mer overlap,LM,8,LM68,-,-
+69,top 64 5mer overlap,LM,8,LM73,-,-
+70,top 64 5mer overlap,LM,8,LM83,-,-
+71,top 64 5mer overlap,LM,9,LM33,FUBP1,0.28125
+72,top 64 5mer overlap,LM,9,LM86,MATR3,0.15625
+73,top 64 5mer overlap,LM,9,A1CF_gg,-,-
+74,top 64 5mer overlap,LM,9,BOLL,-,-
+75,top 64 5mer overlap,LM,9,CPEB1,-,-
+76,top 64 5mer overlap,LM,9,CPEB2,-,-
+77,top 64 5mer overlap,LM,9,CPEB4,-,-
+78,top 64 5mer overlap,LM,9,ELAVL4,-,-
+79,top 64 5mer overlap,LM,9,FUBP3,-,-
+80,top 64 5mer overlap,LM,9,HNRNPA0,-,-
+81,top 64 5mer overlap,LM,9,HNRNPC,-,-
+82,top 64 5mer overlap,LM,9,HNRNPD,-,-
+83,top 64 5mer overlap,LM,9,HNRNPDL,-,-
+84,top 64 5mer overlap,LM,9,HNRNPH2,-,-
+85,top 64 5mer overlap,LM,9,HuR,-,-
+86,top 64 5mer overlap,LM,9,ILF2,-,-
+87,top 64 5mer overlap,LM,9,KHDRBS3,-,-
+88,top 64 5mer overlap,LM,9,MBNL1,-,-
+89,top 64 5mer overlap,LM,9,PABPC1,-,-
+90,top 64 5mer overlap,LM,9,PCBP1_mm,-,-
+91,top 64 5mer overlap,LM,9,PRR3,-,-
+92,top 64 5mer overlap,LM,9,RALY,-,-
+93,top 64 5mer overlap,LM,9,RBM15B,-,-
+94,top 64 5mer overlap,LM,9,RBM24,-,-
+95,top 64 5mer overlap,LM,9,RBM38_mm,-,-
+96,top 64 5mer overlap,LM,9,RBM47,-,-
+97,top 64 5mer overlap,LM,9,RC3H1,-,-
+98,top 64 5mer overlap,LM,9,Rbm38_dr,-,-
+99,top 64 5mer overlap,LM,9,SFPQ,-,-
+100,top 64 5mer overlap,LM,9,SNRPB2,-,-
+101,top 64 5mer overlap,LM,9,TDRD10,-,-
+102,top 64 5mer overlap,LM,9,TIA1,-,-
+103,top 64 5mer overlap,LM,9,TRA2B,-,-
+104,top 64 5mer overlap,LM,9,TRNAU1AP,-,-
+105,top 64 5mer overlap,LM,9,TUT1,-,-
+106,top 64 5mer overlap,LM,9,U2AF2,-,-
+107,top 64 5mer overlap,LM,9,ZC3H14,-,-
+108,top 64 5mer overlap,LM,9,ZFP36,-,-
+109,top 64 5mer overlap,LM,9,ZFP36L1,-,-
+110,top 64 5mer overlap,LM,9,ZFP36L2,-,-
+111,top 64 5mer overlap,LM,10,LM31,LIN28A,0.3125
+112,top 64 5mer overlap,LM,10,LM34,YBX2,0.3125
+113,top 64 5mer overlap,LM,10,LM5,ANKHD1,0.421875
+114,top 64 5mer overlap,LM,10,LM59,SAMD4A,0.296875
+115,top 64 5mer overlap,LM,10,LM60,SRSF7,0.5
+116,top 64 5mer overlap,LM,10,LM64,Rbm42_xt,0.171875
+117,top 64 5mer overlap,LM,10,LM71,TAF15,0.140625
+118,top 64 5mer overlap,LM,10,LM79,TROVE2,0.296875
+119,top 64 5mer overlap,LM,10,LM88,TRA2A,0.40625
+120,top 64 5mer overlap,LM,10,LM19,-,-
+121,top 64 5mer overlap,LM,10,LM26,-,-
+122,top 64 5mer overlap,LM,10,LM28,-,-
+123,top 64 5mer overlap,LM,10,LM30,-,-
+124,top 64 5mer overlap,LM,10,LM43,-,-
+125,top 64 5mer overlap,LM,10,LM46,-,-
+126,top 64 5mer overlap,LM,10,LM49,-,-
+127,top 64 5mer overlap,LM,10,LM54,-,-
+128,top 64 5mer overlap,LM,10,LM57,-,-
+129,top 64 5mer overlap,LM,10,LM58,-,-
+130,top 64 5mer overlap,LM,10,LM74,-,-
+131,top 64 5mer overlap,LM,10,LM76,-,-
+132,top 64 5mer overlap,LM,10,LM78,-,-
+133,top 64 5mer overlap,LM,10,LM87,-,-
+134,top 64 5mer overlap,LM,10,LM95,-,-
+135,top 64 5mer overlap,LM,10,LM97,-,-
+136,top 64 5mer overlap,LM,12,LM27,PPRC1,0.25
+137,top 64 5mer overlap,LM,12,LM82,RBM8A,0.28125
+138,top 64 5mer overlap,LM,12,BRUNOL5,-,-
+139,top 64 5mer overlap,LM,12,BRUNOL6,-,-
+140,top 64 5mer overlap,LM,12,CNOT4,-,-
+141,top 64 5mer overlap,LM,12,EIF3D,-,-
+142,top 64 5mer overlap,LM,12,ENOX1,-,-
+143,top 64 5mer overlap,LM,12,EWSR1,-,-
+144,top 64 5mer overlap,LM,12,FUS,-,-
+145,top 64 5mer overlap,LM,12,HNRNPCL1,-,-
+146,top 64 5mer overlap,LM,12,HNRNPR_gg,-,-
+147,top 64 5mer overlap,LM,12,Hnrnpr_xt,-,-
+148,top 64 5mer overlap,LM,12,IGF2BP2,-,-
+149,top 64 5mer overlap,LM,12,LIN28B,-,-
+150,top 64 5mer overlap,LM,12,NOVA1,-,-
+151,top 64 5mer overlap,LM,12,NUPL2,-,-
+152,top 64 5mer overlap,LM,12,PABPN1L,-,-
+153,top 64 5mer overlap,LM,12,PCBP1,-,-
+154,top 64 5mer overlap,LM,12,RBFOX1,-,-
+155,top 64 5mer overlap,LM,12,RBM4,-,-
+156,top 64 5mer overlap,LM,12,RBM41,-,-
+157,top 64 5mer overlap,LM,12,RBM42,-,-
+158,top 64 5mer overlap,LM,12,RBM46,-,-
+159,top 64 5mer overlap,LM,12,RBM6,-,-
+160,top 64 5mer overlap,LM,12,Rbm24_tn,-,-
+161,top 64 5mer overlap,LM,12,SART3,-,-
+162,top 64 5mer overlap,LM,12,SF3B6,-,-
+163,top 64 5mer overlap,LM,12,SRSF10,-,-
+164,top 64 5mer overlap,LM,12,SRSF11,-,-
+165,top 64 5mer overlap,LM,12,SRSF4,-,-
+166,top 64 5mer overlap,LM,12,SRSF5,-,-
+167,top 64 5mer overlap,LM,12,SRSF8,-,-
+168,top 64 5mer overlap,LM,12,Sf3b4_dr,-,-
+169,top 64 5mer overlap,LM,12,Syncrip_xt,-,-
+170,top 64 5mer overlap,LM,12,TARDBP,-,-
+171,top 64 5mer overlap,LM,12,XRCC6,-,-
+172,top 64 5mer overlap,LM,12,ZRANB2,-,-
+173,top 64 5mer overlap,LM,14,LM18,RBM20,0.453125
+174,top 64 5mer overlap,LM,14,LM24,RBFOX2,0.15625
+175,top 64 5mer overlap,LM,14,LM7,RBM3,0.140625
+176,top 64 5mer overlap,LM,14,LM2,-,-
+177,top 64 5mer overlap,LM,14,LM90,-,-
+178,top 64 5mer overlap,LM,15,LM11,SF1,0.40625
+179,top 64 5mer overlap,LM,15,LM12,PTBP1,0.578125
+180,top 64 5mer overlap,LM,15,LM16,KHSRP,0.453125
+181,top 64 5mer overlap,LM,15,LM17,DAZ3,0.375
+182,top 64 5mer overlap,LM,15,LM23,BRUNOL4,0.390625
+183,top 64 5mer overlap,LM,15,LM52,PTBP3,0.203125
+184,top 64 5mer overlap,LM,15,LM53,ZCRB1,0.359375
+185,top 64 5mer overlap,LM,15,LM63,QKI,0.296875
+186,top 64 5mer overlap,LM,15,LM66,CELF1,0.328125
+187,top 64 5mer overlap,LM,15,LM84,PCBP3_mm,0.3125
+188,top 64 5mer overlap,LM,15,LM85,ZNF638,0.21875
+189,top 64 5mer overlap,LM,15,LM39,-,-
+190,top 64 5mer overlap,LM,15,LM47,-,-
+191,active position I/U,LM,1,LM13,HNRNPA2B1,0.03207371121996734
+192,active position I/U,LM,1,LM14,RBM28,0.07330037082818294
+193,active position I/U,LM,1,LM15,PCBP2,0.12764218147845383
+194,active position I/U,LM,1,LM21,MSI1,0.08021612635078969
+195,active position I/U,LM,1,LM22,UNK,0.13216191845587696
+196,active position I/U,LM,1,LM25,RBMS3,0.011167446129638534
+197,active position I/U,LM,1,LM37,HNRNPF,0.05001768659356208
+198,active position I/U,LM,1,LM41,HNRNPA1,0.034593828512529796
+199,active position I/U,LM,1,LM45,PPP1R10,0.014181259314456036
+200,active position I/U,LM,1,LM50,RBM25,0.029872891834413176
+201,active position I/U,LM,1,LM55,HNRNPA1L2,0.2219698780779345
+202,active position I/U,LM,1,LM6,HNRNPAB_tn,0.014303988835911153
+203,active position I/U,LM,1,LM72,SAFB2,0.022258064516129033
+204,active position I/U,LM,1,LM77,NSUN2,0.024632670700086432
+205,active position I/U,LM,1,LM89,PUF60,0.039231465647319184
+206,active position I/U,LM,1,A1CF,-,-
+207,active position I/U,LM,1,ESRP1,-,-
+208,active position I/U,LM,1,ESRP2,-,-
+209,active position I/U,LM,1,HNRNPL,-,-
+210,active position I/U,LM,1,HNRPLL,-,-
+211,active position I/U,LM,1,IGF2BP1,-,-
+212,active position I/U,LM,1,IGF2BP3,-,-
+213,active position I/U,LM,1,KHDRBS1,-,-
+214,active position I/U,LM,1,KHDRBS1_mm,-,-
+215,active position I/U,LM,1,KHDRBS2,-,-
+216,active position I/U,LM,1,PABPC4,-,-
+217,active position I/U,LM,1,PCBP4,-,-
+218,active position I/U,LM,1,PUM1,-,-
+219,active position I/U,LM,1,Pcbp2_dr,-,-
+220,active position I/U,LM,1,RBMS1,-,-
+221,active position I/U,LM,1,RBMS2,-,-
+222,active position I/U,LM,1,SNRPA,-,-
+223,active position I/U,LM,1,ZC3H18,-,-
+224,active position I/U,LM,2,LM38,PABPN1,0.0006064281382656155
+225,active position I/U,LM,2,LM67,RBM22,0.0065111231687466084
+226,active position I/U,LM,2,LM8,ZC3H10,0.0025113008538422904
+227,active position I/U,LM,2,LM94,Rbm4.3_dr,0.023583815028901733
+228,active position I/U,LM,2,LM10,-,-
+229,active position I/U,LM,2,LM69,-,-
+230,active position I/U,LM,6,LM20,FXR2,0.006711409395973154
+231,active position I/U,LM,6,LM3,RBM23,0.02071289352845958
+232,active position I/U,LM,6,LM35,SRSF2,0.05603910016068559
+233,active position I/U,LM,6,LM4,RBFOX3,0.02009044406553488
+234,active position I/U,LM,6,LM40,PABPC5,0.05645277577505407
+235,active position I/U,LM,6,LM42,RBM45,0.01355902927713965
+236,active position I/U,LM,6,LM44,HNRNPK,0.01928087545596665
+237,active position I/U,LM,6,LM56,SRSF9,0.02106008317847978
+238,active position I/U,LM,6,LM70,RBM47_gg,0.04889910690600407
+239,active position I/U,LM,6,LM80,PABPC3,0.07468354430379746
+240,active position I/U,LM,6,LM9,G3BP2,0.034444811268845604
+241,active position I/U,LM,6,LM91,FXR1,0.01299166741331422
+242,active position I/U,LM,6,EIF4G2,-,-
+243,active position I/U,LM,6,FMR1,-,-
+244,active position I/U,LM,6,RBM4B,-,-
+245,active position I/U,LM,6,RBM5,-,-
+246,active position I/U,LM,6,SNRNP70,-,-
+247,active position I/U,LM,6,SRSF1,-,-
+248,active position I/U,LM,6,SUCLG1,-,-
+249,active position I/U,LM,6,YBX1,-,-
+250,active position I/U,LM,6,ZNF326,-,-
+251,active position I/U,LM,8,LM48,DAZAP1,0.045333584532416454
+252,active position I/U,LM,8,LM51,AKAP8L,0.04173662748860638
+253,active position I/U,LM,8,LM75,APOBEC3C,0.10288849081952531
+254,active position I/U,LM,8,LM92,Rbm47_xt,0.0018246787805063483
+255,active position I/U,LM,8,LM36,-,-
+256,active position I/U,LM,8,LM61,-,-
+257,active position I/U,LM,8,LM62,-,-
+258,active position I/U,LM,8,LM65,-,-
+259,active position I/U,LM,8,LM68,-,-
+260,active position I/U,LM,8,LM73,-,-
+261,active position I/U,LM,8,LM83,-,-
+262,active position I/U,LM,9,LM33,HNRNPH2,0.03745826377295493
+263,active position I/U,LM,9,LM86,FUBP1,0.0047093212081844756
+264,active position I/U,LM,9,A1CF_gg,-,-
+265,active position I/U,LM,9,BOLL,-,-
+266,active position I/U,LM,9,CPEB1,-,-
+267,active position I/U,LM,9,CPEB2,-,-
+268,active position I/U,LM,9,CPEB4,-,-
+269,active position I/U,LM,9,ELAVL4,-,-
+270,active position I/U,LM,9,FUBP3,-,-
+271,active position I/U,LM,9,HNRNPA0,-,-
+272,active position I/U,LM,9,HNRNPC,-,-
+273,active position I/U,LM,9,HNRNPD,-,-
+274,active position I/U,LM,9,HNRNPDL,-,-
+275,active position I/U,LM,9,HuR,-,-
+276,active position I/U,LM,9,ILF2,-,-
+277,active position I/U,LM,9,KHDRBS3,-,-
+278,active position I/U,LM,9,MATR3,-,-
+279,active position I/U,LM,9,MBNL1,-,-
+280,active position I/U,LM,9,PABPC1,-,-
+281,active position I/U,LM,9,PCBP1_mm,-,-
+282,active position I/U,LM,9,PRR3,-,-
+283,active position I/U,LM,9,RALY,-,-
+284,active position I/U,LM,9,RBM15B,-,-
+285,active position I/U,LM,9,RBM24,-,-
+286,active position I/U,LM,9,RBM38_mm,-,-
+287,active position I/U,LM,9,RBM47,-,-
+288,active position I/U,LM,9,RC3H1,-,-
+289,active position I/U,LM,9,Rbm38_dr,-,-
+290,active position I/U,LM,9,SFPQ,-,-
+291,active position I/U,LM,9,SNRPB2,-,-
+292,active position I/U,LM,9,TDRD10,-,-
+293,active position I/U,LM,9,TIA1,-,-
+294,active position I/U,LM,9,TRA2B,-,-
+295,active position I/U,LM,9,TRNAU1AP,-,-
+296,active position I/U,LM,9,TUT1,-,-
+297,active position I/U,LM,9,U2AF2,-,-
+298,active position I/U,LM,9,ZC3H14,-,-
+299,active position I/U,LM,9,ZFP36,-,-
+300,active position I/U,LM,9,ZFP36L1,-,-
+301,active position I/U,LM,9,ZFP36L2,-,-
+302,active position I/U,LM,10,LM19,TAF15,0.018501291989664083
+303,active position I/U,LM,10,LM26,Rbm42_xt,0.03439916887914118
+304,active position I/U,LM,10,LM46,LIN28A,0.2697829332720799
+305,active position I/U,LM,10,LM5,ANKHD1,0.10012303906490311
+306,active position I/U,LM,10,LM54,TRA2A,0.06854006586169045
+307,active position I/U,LM,10,LM57,SRSF7,0.044183638246461855
+308,active position I/U,LM,10,LM59,SAMD4A,0.08808950573573149
+309,active position I/U,LM,10,LM64,YBX2,0.03465914101772643
+310,active position I/U,LM,10,LM78,TROVE2,0.01511609786504597
+311,active position I/U,LM,10,LM28,-,-
+312,active position I/U,LM,10,LM30,-,-
+313,active position I/U,LM,10,LM31,-,-
+314,active position I/U,LM,10,LM34,-,-
+315,active position I/U,LM,10,LM43,-,-
+316,active position I/U,LM,10,LM49,-,-
+317,active position I/U,LM,10,LM58,-,-
+318,active position I/U,LM,10,LM60,-,-
+319,active position I/U,LM,10,LM71,-,-
+320,active position I/U,LM,10,LM74,-,-
+321,active position I/U,LM,10,LM76,-,-
+322,active position I/U,LM,10,LM79,-,-
+323,active position I/U,LM,10,LM87,-,-
+324,active position I/U,LM,10,LM88,-,-
+325,active position I/U,LM,10,LM95,-,-
+326,active position I/U,LM,10,LM97,-,-
+327,active position I/U,LM,12,LM27,RBM4,0.01958297397392319
+328,active position I/U,LM,12,LM82,CNOT4,0.050386640342217834
+329,active position I/U,LM,12,BRUNOL5,-,-
+330,active position I/U,LM,12,BRUNOL6,-,-
+331,active position I/U,LM,12,EIF3D,-,-
+332,active position I/U,LM,12,ENOX1,-,-
+333,active position I/U,LM,12,EWSR1,-,-
+334,active position I/U,LM,12,FUS,-,-
+335,active position I/U,LM,12,HNRNPCL1,-,-
+336,active position I/U,LM,12,HNRNPR_gg,-,-
+337,active position I/U,LM,12,Hnrnpr_xt,-,-
+338,active position I/U,LM,12,IGF2BP2,-,-
+339,active position I/U,LM,12,LIN28B,-,-
+340,active position I/U,LM,12,NOVA1,-,-
+341,active position I/U,LM,12,NUPL2,-,-
+342,active position I/U,LM,12,PABPN1L,-,-
+343,active position I/U,LM,12,PCBP1,-,-
+344,active position I/U,LM,12,PPRC1,-,-
+345,active position I/U,LM,12,RBFOX1,-,-
+346,active position I/U,LM,12,RBM41,-,-
+347,active position I/U,LM,12,RBM42,-,-
+348,active position I/U,LM,12,RBM46,-,-
+349,active position I/U,LM,12,RBM6,-,-
+350,active position I/U,LM,12,RBM8A,-,-
+351,active position I/U,LM,12,Rbm24_tn,-,-
+352,active position I/U,LM,12,SART3,-,-
+353,active position I/U,LM,12,SF3B6,-,-
+354,active position I/U,LM,12,SRSF10,-,-
+355,active position I/U,LM,12,SRSF11,-,-
+356,active position I/U,LM,12,SRSF4,-,-
+357,active position I/U,LM,12,SRSF5,-,-
+358,active position I/U,LM,12,SRSF8,-,-
+359,active position I/U,LM,12,Sf3b4_dr,-,-
+360,active position I/U,LM,12,Syncrip_xt,-,-
+361,active position I/U,LM,12,TARDBP,-,-
+362,active position I/U,LM,12,XRCC6,-,-
+363,active position I/U,LM,12,ZRANB2,-,-
+364,active position I/U,LM,14,LM18,RBM20,0.008086934546373515
+365,active position I/U,LM,14,LM7,RBFOX2,0.0015183146707155057
+366,active position I/U,LM,14,LM90,RBM3,0.009375984872360542
+367,active position I/U,LM,14,LM2,-,-
+368,active position I/U,LM,14,LM24,-,-
+369,active position I/U,LM,15,LM11,SF1,0.07896877033181522
+370,active position I/U,LM,15,LM12,PCBP3_mm,0.061692173499325986
+371,active position I/U,LM,15,LM16,PTBP1,0.015346534653465346
+372,active position I/U,LM,15,LM17,DAZ3,0.061717352415026835
+373,active position I/U,LM,15,LM23,BRUNOL4,0.12469941600824459
+374,active position I/U,LM,15,LM52,QKI,0.02168234064785789
+375,active position I/U,LM,15,LM53,KHSRP,0.026223776223776224
+376,active position I/U,LM,15,LM63,ZNF638,0.0018280250298811783
+377,active position I/U,LM,15,LM66,CELF1,0.06032278683285395
+378,active position I/U,LM,15,LM84,PTBP3,0.09067303697548816
+379,active position I/U,LM,15,LM85,ZCRB1,0.07818940511933235
+380,active position I/U,LM,15,LM39,-,-
+381,active position I/U,LM,15,LM47,-,-
+382,top 64 5mer overlap,Swapped RBNS,1,LM D[A1CF],PUM1,0.21875
+383,top 64 5mer overlap,Swapped RBNS,1,LM D[ESRP1],ZC3H18,0.53125
+384,top 64 5mer overlap,Swapped RBNS,1,LM D[ESRP2],HNRNPF,0.34375
+385,top 64 5mer overlap,Swapped RBNS,1,LM D[HNRNPA1L2],HNRNPA1,0.265625
+386,top 64 5mer overlap,Swapped RBNS,1,LM D[HNRNPA1],SAFB2,0.3125
+387,top 64 5mer overlap,Swapped RBNS,1,LM D[HNRNPA2B1],ESRP2,0.5625
+388,top 64 5mer overlap,Swapped RBNS,1,LM D[HNRNPAB_tn],RBMS1,0.109375
+389,top 64 5mer overlap,Swapped RBNS,1,LM D[HNRNPF],HNRNPA1L2,0.328125
+390,top 64 5mer overlap,Swapped RBNS,1,LM D[HNRNPL],HNRNPAB_tn,0.25
+391,top 64 5mer overlap,Swapped RBNS,1,LM D[HNRPLL],RBMS3,0.171875
+392,top 64 5mer overlap,Swapped RBNS,1,LM D[IGF2BP1],PCBP4,0.578125
+393,top 64 5mer overlap,Swapped RBNS,1,LM D[IGF2BP3],A1CF,0.234375
+394,top 64 5mer overlap,Swapped RBNS,1,LM D[KHDRBS1],HNRPLL,0.0625
+395,top 64 5mer overlap,Swapped RBNS,1,LM D[KHDRBS1_mm],PPP1R10,0.15625
+396,top 64 5mer overlap,Swapped RBNS,1,LM D[KHDRBS2],PABPC4,0.328125
+397,top 64 5mer overlap,Swapped RBNS,1,LM D[MSI1],KHDRBS1_mm,0.484375
+398,top 64 5mer overlap,Swapped RBNS,1,LM D[NSUN2],RBM28,0.34375
+399,top 64 5mer overlap,Swapped RBNS,1,LM D[PABPC4],IGF2BP1,0.3125
+400,top 64 5mer overlap,Swapped RBNS,1,LM D[PCBP2],RBMS2,0.328125
+401,top 64 5mer overlap,Swapped RBNS,1,LM D[PCBP4],PCBP2,0.296875
+402,top 64 5mer overlap,Swapped RBNS,1,LM D[PPP1R10],KHDRBS1,0.4375
+403,top 64 5mer overlap,Swapped RBNS,1,LM D[PUF60],Pcbp2_dr,0.25
+404,top 64 5mer overlap,Swapped RBNS,1,LM D[PUM1],ESRP1,0.5625
+405,top 64 5mer overlap,Swapped RBNS,1,LM D[Pcbp2_dr],IGF2BP3,0.0625
+406,top 64 5mer overlap,Swapped RBNS,1,LM D[RBM25],RBM25,0.484375
+407,top 64 5mer overlap,Swapped RBNS,1,LM D[RBM28],UNK,0.53125
+408,top 64 5mer overlap,Swapped RBNS,1,LM D[RBMS1],PUF60,0.296875
+409,top 64 5mer overlap,Swapped RBNS,1,LM D[RBMS2],HNRNPA2B1,0.171875
+410,top 64 5mer overlap,Swapped RBNS,1,LM D[RBMS3],NSUN2,0.359375
+411,top 64 5mer overlap,Swapped RBNS,1,LM D[SAFB2],SNRPA,0.09375
+412,top 64 5mer overlap,Swapped RBNS,1,LM D[SNRPA],HNRNPL,0.375
+413,top 64 5mer overlap,Swapped RBNS,1,LM D[UNK],MSI1,0.40625
+414,top 64 5mer overlap,Swapped RBNS,1,LM D[ZC3H18],KHDRBS2,0.453125
+415,top 64 5mer overlap,Swapped RBNS,2,LM D[PABPN1],ZC3H10,0.078125
+416,top 64 5mer overlap,Swapped RBNS,2,LM D[RBM22],RBM22,0.046875
+417,top 64 5mer overlap,Swapped RBNS,2,LM D[Rbm4.3_dr],Rbm4.3_dr,0.484375
+418,top 64 5mer overlap,Swapped RBNS,2,LM D[ZC3H10],PABPN1,0.03125
+419,top 64 5mer overlap,Swapped RBNS,6,LM D[EIF4G2],FXR2,0.421875
+420,top 64 5mer overlap,Swapped RBNS,6,LM D[FMR1],RBM4B,0.328125
+421,top 64 5mer overlap,Swapped RBNS,6,LM D[FXR1],RBM45,0.234375
+422,top 64 5mer overlap,Swapped RBNS,6,LM D[FXR2],RBM23,0.0625
+423,top 64 5mer overlap,Swapped RBNS,6,LM D[G3BP2],PABPC3,0.1875
+424,top 64 5mer overlap,Swapped RBNS,6,LM D[HNRNPK],ZNF326,0.265625
+425,top 64 5mer overlap,Swapped RBNS,6,LM D[PABPC3],RBM47_gg,0.359375
+426,top 64 5mer overlap,Swapped RBNS,6,LM D[PABPC5],FMR1,0.34375
+427,top 64 5mer overlap,Swapped RBNS,6,LM D[RBFOX3],EIF4G2,0.140625
+428,top 64 5mer overlap,Swapped RBNS,6,LM D[RBM23],HNRNPK,0.234375
+429,top 64 5mer overlap,Swapped RBNS,6,LM D[RBM45],FXR1,0.40625
+430,top 64 5mer overlap,Swapped RBNS,6,LM D[RBM47_gg],RBFOX3,0.203125
+431,top 64 5mer overlap,Swapped RBNS,6,LM D[RBM4B],SUCLG1,0.15625
+432,top 64 5mer overlap,Swapped RBNS,6,LM D[RBM5],G3BP2,0.265625
+433,top 64 5mer overlap,Swapped RBNS,6,LM D[SNRNP70],YBX1,0.40625
+434,top 64 5mer overlap,Swapped RBNS,6,LM D[SRSF1],RBM5,0.453125
+435,top 64 5mer overlap,Swapped RBNS,6,LM D[SRSF2],SNRNP70,0.140625
+436,top 64 5mer overlap,Swapped RBNS,6,LM D[SRSF9],SRSF1,0.375
+437,top 64 5mer overlap,Swapped RBNS,6,LM D[SUCLG1],PABPC5,0.234375
+438,top 64 5mer overlap,Swapped RBNS,6,LM D[YBX1],SRSF2,0.25
+439,top 64 5mer overlap,Swapped RBNS,6,LM D[ZNF326],SRSF9,0.28125
+440,top 64 5mer overlap,Swapped RBNS,8,LM D[AKAP8L],APOBEC3C,0.234375
+441,top 64 5mer overlap,Swapped RBNS,8,LM D[APOBEC3C],AKAP8L,0.640625
+442,top 64 5mer overlap,Swapped RBNS,8,LM D[DAZAP1],DAZAP1,0.296875
+443,top 64 5mer overlap,Swapped RBNS,8,LM D[Rbm47_xt],Rbm47_xt,0.375
+444,top 64 5mer overlap,Swapped RBNS,9,LM D[A1CF_gg],ZFP36,0.1875
+445,top 64 5mer overlap,Swapped RBNS,9,LM D[BOLL],ZC3H14,0.53125
+446,top 64 5mer overlap,Swapped RBNS,9,LM D[CPEB1],FUBP1,0.5
+447,top 64 5mer overlap,Swapped RBNS,9,LM D[CPEB2],BOLL,0.296875
+448,top 64 5mer overlap,Swapped RBNS,9,LM D[CPEB4],CPEB2,0.4375
+449,top 64 5mer overlap,Swapped RBNS,9,LM D[ELAVL4],RBM15B,0.5
+450,top 64 5mer overlap,Swapped RBNS,9,LM D[FUBP1],ZFP36L1,0.34375
+451,top 64 5mer overlap,Swapped RBNS,9,LM D[FUBP3],ZFP36L2,0.53125
+452,top 64 5mer overlap,Swapped RBNS,9,LM D[HNRNPA0],Rbm38_dr,0.21875
+453,top 64 5mer overlap,Swapped RBNS,9,LM D[HNRNPC],ILF2,0.5625
+454,top 64 5mer overlap,Swapped RBNS,9,LM D[HNRNPDL],HNRNPDL,0.25
+455,top 64 5mer overlap,Swapped RBNS,9,LM D[HNRNPD],HNRNPA0,0.40625
+456,top 64 5mer overlap,Swapped RBNS,9,LM D[HNRNPH2],SNRPB2,0.1875
+457,top 64 5mer overlap,Swapped RBNS,9,LM D[HuR],ELAVL4,0.609375
+458,top 64 5mer overlap,Swapped RBNS,9,LM D[ILF2],RBM47,0.15625
+459,top 64 5mer overlap,Swapped RBNS,9,LM D[KHDRBS3],PRR3,0.140625
+460,top 64 5mer overlap,Swapped RBNS,9,LM D[MATR3],CPEB1,0.421875
+461,top 64 5mer overlap,Swapped RBNS,9,LM D[MBNL1],RC3H1,0.125
+462,top 64 5mer overlap,Swapped RBNS,9,LM D[PABPC1],MBNL1,0.203125
+463,top 64 5mer overlap,Swapped RBNS,9,LM D[PCBP1_mm],RBM24,0.390625
+464,top 64 5mer overlap,Swapped RBNS,9,LM D[PRR3],TRA2B,0.25
+465,top 64 5mer overlap,Swapped RBNS,9,LM D[RALY],HNRNPC,0.359375
+466,top 64 5mer overlap,Swapped RBNS,9,LM D[RBM15B],CPEB4,0.53125
+467,top 64 5mer overlap,Swapped RBNS,9,LM D[RBM24],RALY,0.59375
+468,top 64 5mer overlap,Swapped RBNS,9,LM D[RBM38_mm],MATR3,0.109375
+469,top 64 5mer overlap,Swapped RBNS,9,LM D[RBM47],TUT1,0.15625
+470,top 64 5mer overlap,Swapped RBNS,9,LM D[RC3H1],FUBP3,0.390625
+471,top 64 5mer overlap,Swapped RBNS,9,LM D[Rbm38_dr],TIA1,0.0625
+472,top 64 5mer overlap,Swapped RBNS,9,LM D[SFPQ],TDRD10,0.28125
+473,top 64 5mer overlap,Swapped RBNS,9,LM D[SNRPB2],HNRNPH2,0.484375
+474,top 64 5mer overlap,Swapped RBNS,9,LM D[TDRD10],HuR,0.296875
+475,top 64 5mer overlap,Swapped RBNS,9,LM D[TIA1],HNRNPD,0.3125
+476,top 64 5mer overlap,Swapped RBNS,9,LM D[TRA2B],PABPC1,0.234375
+477,top 64 5mer overlap,Swapped RBNS,9,LM D[TRNAU1AP],KHDRBS3,0.390625
+478,top 64 5mer overlap,Swapped RBNS,9,LM D[TUT1],A1CF_gg,0.25
+479,top 64 5mer overlap,Swapped RBNS,9,LM D[U2AF2],TRNAU1AP,0.453125
+480,top 64 5mer overlap,Swapped RBNS,9,LM D[ZC3H14],U2AF2,0.5
+481,top 64 5mer overlap,Swapped RBNS,9,LM D[ZFP36L1],PCBP1_mm,0.15625
+482,top 64 5mer overlap,Swapped RBNS,9,LM D[ZFP36L2],RBM38_mm,0.328125
+483,top 64 5mer overlap,Swapped RBNS,9,LM D[ZFP36],SFPQ,0.375
+484,top 64 5mer overlap,Swapped RBNS,10,LM D[ANKHD1],SRSF7,0.5
+485,top 64 5mer overlap,Swapped RBNS,10,LM D[LIN28A],LIN28A,0.4375
+486,top 64 5mer overlap,Swapped RBNS,10,LM D[Rbm42_xt],Rbm42_xt,0.234375
+487,top 64 5mer overlap,Swapped RBNS,10,LM D[SAMD4A],YBX2,0.09375
+488,top 64 5mer overlap,Swapped RBNS,10,LM D[SRSF7],ANKHD1,0.0625
+489,top 64 5mer overlap,Swapped RBNS,10,LM D[TAF15],SAMD4A,0.265625
+490,top 64 5mer overlap,Swapped RBNS,10,LM D[TRA2A],TRA2A,0.359375
+491,top 64 5mer overlap,Swapped RBNS,10,LM D[TROVE2],TROVE2,0.25
+492,top 64 5mer overlap,Swapped RBNS,10,LM D[YBX2],TAF15,0.203125
+493,top 64 5mer overlap,Swapped RBNS,12,LM D[BRUNOL5],BRUNOL5,0.125
+494,top 64 5mer overlap,Swapped RBNS,12,LM D[BRUNOL6],XRCC6,0.5
+495,top 64 5mer overlap,Swapped RBNS,12,LM D[CNOT4],RBM8A,0.5
+496,top 64 5mer overlap,Swapped RBNS,12,LM D[EIF3D],EWSR1,0.3125
+497,top 64 5mer overlap,Swapped RBNS,12,LM D[ENOX1],Sf3b4_dr,0.203125
+498,top 64 5mer overlap,Swapped RBNS,12,LM D[EWSR1],BRUNOL6,0.28125
+499,top 64 5mer overlap,Swapped RBNS,12,LM D[FUS],SRSF5,0.3125
+500,top 64 5mer overlap,Swapped RBNS,12,LM D[HNRNPCL1],LIN28B,0.671875
+501,top 64 5mer overlap,Swapped RBNS,12,LM D[HNRNPR_gg],HNRNPCL1,0.203125
+502,top 64 5mer overlap,Swapped RBNS,12,LM D[Hnrnpr_xt],NUPL2,0.09375
+503,top 64 5mer overlap,Swapped RBNS,12,LM D[IGF2BP2],SART3,0.1875
+504,top 64 5mer overlap,Swapped RBNS,12,LM D[LIN28B],Rbm24_tn,0.25
+505,top 64 5mer overlap,Swapped RBNS,12,LM D[NOVA1],FUS,0.15625
+506,top 64 5mer overlap,Swapped RBNS,12,LM D[NUPL2],ENOX1,0.15625
+507,top 64 5mer overlap,Swapped RBNS,12,LM D[PABPN1L],Hnrnpr_xt,0.359375
+508,top 64 5mer overlap,Swapped RBNS,12,LM D[PCBP1],SF3B6,0.6875
+509,top 64 5mer overlap,Swapped RBNS,12,LM D[PPRC1],PPRC1,0.46875
+510,top 64 5mer overlap,Swapped RBNS,12,LM D[RBFOX1],SRSF11,0.140625
+511,top 64 5mer overlap,Swapped RBNS,12,LM D[RBM41],RBM41,0.21875
+512,top 64 5mer overlap,Swapped RBNS,12,LM D[RBM42],PABPN1L,0.234375
+513,top 64 5mer overlap,Swapped RBNS,12,LM D[RBM46],PCBP1,0.015625
+514,top 64 5mer overlap,Swapped RBNS,12,LM D[RBM4],HNRNPR_gg,0.109375
+515,top 64 5mer overlap,Swapped RBNS,12,LM D[RBM6],RBM4,0.1875
+516,top 64 5mer overlap,Swapped RBNS,12,LM D[RBM8A],RBM6,0.046875
+517,top 64 5mer overlap,Swapped RBNS,12,LM D[Rbm24_tn],IGF2BP2,0.03125
+518,top 64 5mer overlap,Swapped RBNS,12,LM D[SART3],Syncrip_xt,0.265625
+519,top 64 5mer overlap,Swapped RBNS,12,LM D[SF3B6],EIF3D,0.203125
+520,top 64 5mer overlap,Swapped RBNS,12,LM D[SRSF10],RBM46,0.1875
+521,top 64 5mer overlap,Swapped RBNS,12,LM D[SRSF11],NOVA1,0.078125
+522,top 64 5mer overlap,Swapped RBNS,12,LM D[SRSF4],ZRANB2,0.40625
+523,top 64 5mer overlap,Swapped RBNS,12,LM D[SRSF5],SRSF8,0.203125
+524,top 64 5mer overlap,Swapped RBNS,12,LM D[SRSF8],CNOT4,0.046875
+525,top 64 5mer overlap,Swapped RBNS,12,LM D[Sf3b4_dr],SRSF10,0.09375
+526,top 64 5mer overlap,Swapped RBNS,12,LM D[Syncrip_xt],RBFOX1,0.15625
+527,top 64 5mer overlap,Swapped RBNS,12,LM D[TARDBP],TARDBP,0.359375
+528,top 64 5mer overlap,Swapped RBNS,12,LM D[XRCC6],SRSF4,0.046875
+529,top 64 5mer overlap,Swapped RBNS,12,LM D[ZRANB2],RBM42,0.328125
+530,top 64 5mer overlap,Swapped RBNS,14,LM D[RBFOX2],RBM3,0.1875
+531,top 64 5mer overlap,Swapped RBNS,14,LM D[RBM20],RBFOX2,0.015625
+532,top 64 5mer overlap,Swapped RBNS,14,LM D[RBM3],RBM20,0.15625
+533,top 64 5mer overlap,Swapped RBNS,15,LM D[BRUNOL4],PCBP3_mm,0.28125
+534,top 64 5mer overlap,Swapped RBNS,15,LM D[CELF1],DAZ3,0.296875
+535,top 64 5mer overlap,Swapped RBNS,15,LM D[DAZ3],ZNF638,0.21875
+536,top 64 5mer overlap,Swapped RBNS,15,LM D[KHSRP],KHSRP,0.421875
+537,top 64 5mer overlap,Swapped RBNS,15,LM D[PCBP3_mm],CELF1,0.390625
+538,top 64 5mer overlap,Swapped RBNS,15,LM D[PTBP1],QKI,0.171875
+539,top 64 5mer overlap,Swapped RBNS,15,LM D[PTBP3],PTBP1,0.515625
+540,top 64 5mer overlap,Swapped RBNS,15,LM D[QKI],SF1,0.453125
+541,top 64 5mer overlap,Swapped RBNS,15,LM D[SF1],PTBP3,0.34375
+542,top 64 5mer overlap,Swapped RBNS,15,LM D[ZCRB1],ZCRB1,0.328125
+543,top 64 5mer overlap,Swapped RBNS,15,LM D[ZNF638],BRUNOL4,0.125
+544,active position I/U,Swapped RBNS,1,LM D[A1CF],KHDRBS1_mm,0.013209219858156028
+545,active position I/U,Swapped RBNS,1,LM D[ESRP1],ESRP1,0.1207664691379385
+546,active position I/U,Swapped RBNS,1,LM D[ESRP2],HNRNPF,0.22983417650365373
+547,active position I/U,Swapped RBNS,1,LM D[HNRNPA1L2],HNRNPAB_tn,0.03662512841127339
+548,active position I/U,Swapped RBNS,1,LM D[HNRNPA1],HNRPLL,0.0032616450922434
+549,active position I/U,Swapped RBNS,1,LM D[HNRNPA2B1],HNRNPA2B1,0.06387091106100097
+550,active position I/U,Swapped RBNS,1,LM D[HNRNPAB_tn],RBMS1,0.00838783053738982
+551,active position I/U,Swapped RBNS,1,LM D[HNRNPF],HNRNPA1L2,0.13126491646778043
+552,active position I/U,Swapped RBNS,1,LM D[HNRNPL],ZC3H18,0.015933987764973682
+553,active position I/U,Swapped RBNS,1,LM D[HNRPLL],HNRNPA1,0.072898570092209
+554,active position I/U,Swapped RBNS,1,LM D[IGF2BP1],PCBP2,0.11677525596047827
+555,active position I/U,Swapped RBNS,1,LM D[IGF2BP3],KHDRBS2,0.08162101618979738
+556,active position I/U,Swapped RBNS,1,LM D[KHDRBS1],RBMS3,0.03996669442131557
+557,active position I/U,Swapped RBNS,1,LM D[KHDRBS1_mm],PPP1R10,0.04210419348282637
+558,active position I/U,Swapped RBNS,1,LM D[KHDRBS2],KHDRBS1,0.2523366840500844
+559,active position I/U,Swapped RBNS,1,LM D[MSI1],IGF2BP3,0.09258338471329979
+560,active position I/U,Swapped RBNS,1,LM D[NSUN2],MSI1,0.1199152916262243
+561,active position I/U,Swapped RBNS,1,LM D[PABPC4],PABPC4,0.40548107924656374
+562,active position I/U,Swapped RBNS,1,LM D[PCBP2],Pcbp2_dr,0.007608083085097818
+563,active position I/U,Swapped RBNS,1,LM D[PCBP4],PUF60,0.06610543748274911
+564,active position I/U,Swapped RBNS,1,LM D[PPP1R10],A1CF,0.11253212834756654
+565,active position I/U,Swapped RBNS,1,LM D[PUF60],PCBP4,0.0016530949611216555
+566,active position I/U,Swapped RBNS,1,LM D[PUM1],RBM25,0.23770784909708564
+567,active position I/U,Swapped RBNS,1,LM D[Pcbp2_dr],HNRNPL,0.0015186324520073207
+568,active position I/U,Swapped RBNS,1,LM D[RBM25],ESRP2,0.0764618800888231
+569,active position I/U,Swapped RBNS,1,LM D[RBM28],UNK,0.19114611932668094
+570,active position I/U,Swapped RBNS,1,LM D[RBMS1],SNRPA,0.004291479565736373
+571,active position I/U,Swapped RBNS,1,LM D[RBMS2],RBMS2,0.03019519033753909
+572,active position I/U,Swapped RBNS,1,LM D[RBMS3],NSUN2,0.016194983740622684
+573,active position I/U,Swapped RBNS,1,LM D[SAFB2],SAFB2,0.05544973544973545
+574,active position I/U,Swapped RBNS,1,LM D[SNRPA],IGF2BP1,0.03676229059454725
+575,active position I/U,Swapped RBNS,1,LM D[UNK],RBM28,0.03833233801134667
+576,active position I/U,Swapped RBNS,1,LM D[ZC3H18],PUM1,0.10317364837227208
+577,active position I/U,Swapped RBNS,2,LM D[PABPN1],PABPN1,0.0020891655872644467
+578,active position I/U,Swapped RBNS,2,LM D[RBM22],RBM22,0.001286449399656947
+579,active position I/U,Swapped RBNS,2,LM D[Rbm4.3_dr],ZC3H10,0.037387051313935174
+580,active position I/U,Swapped RBNS,2,LM D[ZC3H10],Rbm4.3_dr,0.0024631805819264126
+581,active position I/U,Swapped RBNS,6,LM D[EIF4G2],ZNF326,0.05745536836811667
+582,active position I/U,Swapped RBNS,6,LM D[FMR1],RBM4B,0.0728494444814051
+583,active position I/U,Swapped RBNS,6,LM D[FXR1],RBM45,0.03025576029378311
+584,active position I/U,Swapped RBNS,6,LM D[FXR2],PABPC3,0.0007726889575723518
+585,active position I/U,Swapped RBNS,6,LM D[G3BP2],FMR1,0.0010786261708770934
+586,active position I/U,Swapped RBNS,6,LM D[HNRNPK],RBM23,0.061309944829537416
+587,active position I/U,Swapped RBNS,6,LM D[PABPC3],RBM47_gg,0.0923599188387701
+588,active position I/U,Swapped RBNS,6,LM D[PABPC5],RBM5,0.03195028867795283
+589,active position I/U,Swapped RBNS,6,LM D[RBFOX3],RBFOX3,0.013899138991389915
+590,active position I/U,Swapped RBNS,6,LM D[RBM23],HNRNPK,0.03010572845110806
+591,active position I/U,Swapped RBNS,6,LM D[RBM45],FXR2,0.05762381068553306
+592,active position I/U,Swapped RBNS,6,LM D[RBM47_gg],FXR1,0.00363919937613725
+593,active position I/U,Swapped RBNS,6,LM D[RBM4B],EIF4G2,0.0344152539054853
+594,active position I/U,Swapped RBNS,6,LM D[RBM5],PABPC5,0.027381968612515597
+595,active position I/U,Swapped RBNS,6,LM D[SNRNP70],YBX1,0.07226500205039413
+596,active position I/U,Swapped RBNS,6,LM D[SRSF1],SRSF9,0.0632807187086152
+597,active position I/U,Swapped RBNS,6,LM D[SRSF2],SNRNP70,0.04142361111111111
+598,active position I/U,Swapped RBNS,6,LM D[SRSF9],G3BP2,0.046717646567214076
+599,active position I/U,Swapped RBNS,6,LM D[SUCLG1],SUCLG1,0.020357241870965187
+600,active position I/U,Swapped RBNS,6,LM D[YBX1],SRSF2,0.06817161386879521
+601,active position I/U,Swapped RBNS,6,LM D[ZNF326],SRSF1,0.10250769907611086
+602,active position I/U,Swapped RBNS,8,LM D[AKAP8L],AKAP8L,0.022717504758396265
+603,active position I/U,Swapped RBNS,8,LM D[APOBEC3C],APOBEC3C,0.1152036345935421
+604,active position I/U,Swapped RBNS,8,LM D[DAZAP1],DAZAP1,0.05536682218296568
+605,active position I/U,Swapped RBNS,8,LM D[Rbm47_xt],Rbm47_xt,0.032633942397026945
+606,active position I/U,Swapped RBNS,9,LM D[A1CF_gg],ZFP36L2,0.008491679677087697
+607,active position I/U,Swapped RBNS,9,LM D[BOLL],ZC3H14,0.10524613726194754
+608,active position I/U,Swapped RBNS,9,LM D[CPEB1],FUBP3,0.15462864527963646
+609,active position I/U,Swapped RBNS,9,LM D[CPEB2],TRNAU1AP,0.16265624139639887
+610,active position I/U,Swapped RBNS,9,LM D[CPEB4],RBM24,0.15345059933328606
+611,active position I/U,Swapped RBNS,9,LM D[ELAVL4],ELAVL4,0.28857984576726453
+612,active position I/U,Swapped RBNS,9,LM D[FUBP1],RBM47,0.12265059747074135
+613,active position I/U,Swapped RBNS,9,LM D[FUBP3],HNRNPD,0.08745138315963161
+614,active position I/U,Swapped RBNS,9,LM D[HNRNPA0],SNRPB2,0.0014943101268247827
+615,active position I/U,Swapped RBNS,9,LM D[HNRNPC],HNRNPH2,0.1692331501973226
+616,active position I/U,Swapped RBNS,9,LM D[HNRNPDL],RC3H1,0.01847050455452814
+617,active position I/U,Swapped RBNS,9,LM D[HNRNPD],HNRNPA0,0.1106802497535327
+618,active position I/U,Swapped RBNS,9,LM D[HNRNPH2],TDRD10,0.014802841464970863
+619,active position I/U,Swapped RBNS,9,LM D[HuR],RBM15B,0.23783201223751912
+620,active position I/U,Swapped RBNS,9,LM D[ILF2],PCBP1_mm,0.0043580767307280135
+621,active position I/U,Swapped RBNS,9,LM D[KHDRBS3],TUT1,0.0037835792659856224
+622,active position I/U,Swapped RBNS,9,LM D[MATR3],CPEB2,0.040783784612554046
+623,active position I/U,Swapped RBNS,9,LM D[MBNL1],CPEB4,0.02293962799039602
+624,active position I/U,Swapped RBNS,9,LM D[PABPC1],TRA2B,0.0
+625,active position I/U,Swapped RBNS,9,LM D[PCBP1_mm],RBM38_mm,0.087234344677427
+626,active position I/U,Swapped RBNS,9,LM D[PRR3],HuR,0.0027879560299506135
+627,active position I/U,Swapped RBNS,9,LM D[RALY],RALY,0.3406269724384599
+628,active position I/U,Swapped RBNS,9,LM D[RBM15B],CPEB1,0.18948264300820136
+629,active position I/U,Swapped RBNS,9,LM D[RBM24],TIA1,0.20762621600511255
+630,active position I/U,Swapped RBNS,9,LM D[RBM38_mm],HNRNPC,0.12510132396649554
+631,active position I/U,Swapped RBNS,9,LM D[RBM47],MBNL1,0.008759006776846223
+632,active position I/U,Swapped RBNS,9,LM D[RC3H1],ZFP36,0.0054035265120394365
+633,active position I/U,Swapped RBNS,9,LM D[Rbm38_dr],ZFP36L1,0.0
+634,active position I/U,Swapped RBNS,9,LM D[SFPQ],FUBP1,0.04206994713298089
+635,active position I/U,Swapped RBNS,9,LM D[SNRPB2],ILF2,0.0605830164765526
+636,active position I/U,Swapped RBNS,9,LM D[TDRD10],MATR3,0.03818682414907625
+637,active position I/U,Swapped RBNS,9,LM D[TIA1],KHDRBS3,0.00678942998095052
+638,active position I/U,Swapped RBNS,9,LM D[TRA2B],PABPC1,0.4280842356552136
+639,active position I/U,Swapped RBNS,9,LM D[TRNAU1AP],PRR3,0.07727109243379332
+640,active position I/U,Swapped RBNS,9,LM D[TUT1],A1CF_gg,0.25801521856792636
+641,active position I/U,Swapped RBNS,9,LM D[U2AF2],BOLL,0.07753092350186142
+642,active position I/U,Swapped RBNS,9,LM D[ZC3H14],U2AF2,0.17506578620723898
+643,active position I/U,Swapped RBNS,9,LM D[ZFP36L1],HNRNPDL,0.09517033905195545
+644,active position I/U,Swapped RBNS,9,LM D[ZFP36L2],Rbm38_dr,0.007050989097081674
+645,active position I/U,Swapped RBNS,9,LM D[ZFP36],SFPQ,0.07436671479196745
+646,active position I/U,Swapped RBNS,10,LM D[ANKHD1],SRSF7,0.018293980004254414
+647,active position I/U,Swapped RBNS,10,LM D[LIN28A],LIN28A,0.05265239531319523
+648,active position I/U,Swapped RBNS,10,LM D[Rbm42_xt],YBX2,0.035001622323166774
+649,active position I/U,Swapped RBNS,10,LM D[SAMD4A],Rbm42_xt,0.00035758984444841767
+650,active position I/U,Swapped RBNS,10,LM D[SRSF7],TROVE2,0.0150789680554563
+651,active position I/U,Swapped RBNS,10,LM D[TAF15],SAMD4A,0.013917129817902489
+652,active position I/U,Swapped RBNS,10,LM D[TRA2A],TRA2A,0.1045445943388575
+653,active position I/U,Swapped RBNS,10,LM D[TROVE2],TAF15,0.014849665514959936
+654,active position I/U,Swapped RBNS,10,LM D[YBX2],ANKHD1,0.002742116415305995
+655,active position I/U,Swapped RBNS,12,LM D[BRUNOL5],HNRNPCL1,0.003391335944123703
+656,active position I/U,Swapped RBNS,12,LM D[BRUNOL6],BRUNOL6,0.055629226892985016
+657,active position I/U,Swapped RBNS,12,LM D[CNOT4],PPRC1,0.1150077933645068
+658,active position I/U,Swapped RBNS,12,LM D[EIF3D],SRSF11,0.04159793659838647
+659,active position I/U,Swapped RBNS,12,LM D[ENOX1],SART3,0.014241842610364683
+660,active position I/U,Swapped RBNS,12,LM D[EWSR1],SRSF10,0.028610408892099034
+661,active position I/U,Swapped RBNS,12,LM D[FUS],SRSF8,0.0859464221620387
+662,active position I/U,Swapped RBNS,12,LM D[HNRNPCL1],EIF3D,0.09262822639506336
+663,active position I/U,Swapped RBNS,12,LM D[HNRNPR_gg],HNRNPR_gg,0.003546361285555966
+664,active position I/U,Swapped RBNS,12,LM D[Hnrnpr_xt],Hnrnpr_xt,0.0027278562259306803
+665,active position I/U,Swapped RBNS,12,LM D[IGF2BP2],EWSR1,0.010375268174304505
+666,active position I/U,Swapped RBNS,12,LM D[LIN28B],SRSF5,0.019695699825929985
+667,active position I/U,Swapped RBNS,12,LM D[NOVA1],XRCC6,0.0
+668,active position I/U,Swapped RBNS,12,LM D[NUPL2],ENOX1,0.013397706698853349
+669,active position I/U,Swapped RBNS,12,LM D[PABPN1L],PABPN1L,0.11960278522414985
+670,active position I/U,Swapped RBNS,12,LM D[PCBP1],RBM4,0.1297766443173872
+671,active position I/U,Swapped RBNS,12,LM D[PPRC1],CNOT4,0.06372038079355152
+672,active position I/U,Swapped RBNS,12,LM D[RBFOX1],RBM8A,0.0007229264060918598
+673,active position I/U,Swapped RBNS,12,LM D[RBM41],RBM41,0.044155773271839095
+674,active position I/U,Swapped RBNS,12,LM D[RBM42],IGF2BP2,0.009883858734297226
+675,active position I/U,Swapped RBNS,12,LM D[RBM46],BRUNOL5,0.0008797285409073771
+676,active position I/U,Swapped RBNS,12,LM D[RBM4],NUPL2,0.02494733340725136
+677,active position I/U,Swapped RBNS,12,LM D[RBM6],RBM6,0.018783759179462282
+678,active position I/U,Swapped RBNS,12,LM D[RBM8A],Rbm24_tn,0.006074551311550851
+679,active position I/U,Swapped RBNS,12,LM D[Rbm24_tn],PCBP1,0.0006690753378830456
+680,active position I/U,Swapped RBNS,12,LM D[SART3],RBM46,0.029780064660079233
+681,active position I/U,Swapped RBNS,12,LM D[SF3B6],FUS,0.02166348253275109
+682,active position I/U,Swapped RBNS,12,LM D[SRSF10],SF3B6,0.012896541869105459
+683,active position I/U,Swapped RBNS,12,LM D[SRSF11],Syncrip_xt,0.0067312807938747655
+684,active position I/U,Swapped RBNS,12,LM D[SRSF4],TARDBP,0.06639408099688474
+685,active position I/U,Swapped RBNS,12,LM D[SRSF5],SRSF4,0.06739384495520062
+686,active position I/U,Swapped RBNS,12,LM D[SRSF8],LIN28B,0.011521652761223678
+687,active position I/U,Swapped RBNS,12,LM D[Sf3b4_dr],RBFOX1,0.007061927673444048
+688,active position I/U,Swapped RBNS,12,LM D[Syncrip_xt],Sf3b4_dr,0.0032773141267482186
+689,active position I/U,Swapped RBNS,12,LM D[TARDBP],ZRANB2,0.0352945316348793
+690,active position I/U,Swapped RBNS,12,LM D[XRCC6],NOVA1,0.005792570798087532
+691,active position I/U,Swapped RBNS,12,LM D[ZRANB2],RBM42,0.05769556383338977
+692,active position I/U,Swapped RBNS,14,LM D[RBFOX2],RBFOX2,0.019437970007476144
+693,active position I/U,Swapped RBNS,14,LM D[RBM20],RBM20,0.0
+694,active position I/U,Swapped RBNS,14,LM D[RBM3],RBM3,0.0031882622423079305
+695,active position I/U,Swapped RBNS,15,LM D[BRUNOL4],DAZ3,0.018951168154015843
+696,active position I/U,Swapped RBNS,15,LM D[CELF1],KHSRP,0.02259930881839009
+697,active position I/U,Swapped RBNS,15,LM D[DAZ3],PTBP1,0.06409177481507729
+698,active position I/U,Swapped RBNS,15,LM D[KHSRP],CELF1,0.06104920143219214
+699,active position I/U,Swapped RBNS,15,LM D[PCBP3_mm],PCBP3_mm,0.21153846153846154
+700,active position I/U,Swapped RBNS,15,LM D[PTBP1],BRUNOL4,0.002635046113306983
+701,active position I/U,Swapped RBNS,15,LM D[PTBP3],PTBP3,0.17773993717154518
+702,active position I/U,Swapped RBNS,15,LM D[QKI],SF1,0.027760073649174988
+703,active position I/U,Swapped RBNS,15,LM D[SF1],QKI,0.06622839055271487
+704,active position I/U,Swapped RBNS,15,LM D[ZCRB1],ZCRB1,0.14300397877984086
+705,active position I/U,Swapped RBNS,15,LM D[ZNF638],ZNF638,0.0010075769788811864

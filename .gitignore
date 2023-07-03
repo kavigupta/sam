@@ -1,0 +1,22 @@
+# original
+*/*/*.exe
+*/*/*.exe.stackdump
+yeast_data/.ipynb_checkpoints/
+yeast_data/__pycache__/
+yeast_data/tester.cpp
+*.h5
+*.idea
+.vscode
+
+# python
+*.pyc
+*.ipynb_checkpoints
+
+# caching
+*.bak
+*.dat
+*.dir
+*.DS_store
+
+# outputs
+spliceai/Canonical/model
