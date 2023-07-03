@@ -84,9 +84,9 @@ Use the same `$FA_LOCATION` as before. Then run
 Then, run the following commands to ensure the standard acceptor and donor LSSI models are in the appropriate locations
 
     mkdir -p model/splicepoint-model-acceptor-1/model/
-    mkdir -p model/splicepoint-donor2-2.sh/model/
+    mkdir -p model/splicepoint-model-donor-1/model
 
-    cp splicepoint-models/donor2.m model/splicepoint-donor2-2.sh/model/1627500
+    cp splicepoint-models/donor.m model/splicepoint-model-donor-1/model/1627200
     cp splicepoint-models/acceptor.m model/splicepoint-model-acceptor-1/model/1627200
 
 You can train more of these using the instructions below using definitions
