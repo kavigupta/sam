@@ -24,6 +24,8 @@ requirements, but we have not tested this.
 
 If you have any questions on running the code, contact kavig at mit dot edu.
 
+The setup instructions here should take about 2-4 hours.
+
 ## Explanation of files
 
 The folder structure exists for legacy reasons as this project started off using the
@@ -96,13 +98,24 @@ You can train more of these using the instructions below using definitions
 
 > If you did not use `--data-dir ./` you will have to modify the commands below by prefixing them with `MSP_DATA_DIR=$YOUR_DATA_DIR`.
 
-To run experiments, you can run
+To train models, you can run
 
     CUDA_VISIBLE_DEVICES=$GPU PYTHONPATH=. python experiments/$EXPNAME.py $SEED
 
 This will run the training for the given `EXPNAME` on seed `SEED` and gpu `GPU`. To test you can run
 
     CUDA_VISIBLE_DEVICES=$GPU  PYTHONPATH=. python experiments/$EXPNAME.py $SEED test
+
+To train the main AM and FM models use
+
+- AM: msp-274.790a3
+- FM: msp-273.665a3
+
+To binarize these after training, use
+
+- AM: msp-274.790a3.x1
+- FM: msp-273.665a3.x1
+
 
 ### NFM models
 
