@@ -1,0 +1,1 @@
+For legacy reasons related to branching this code off of the SpliceAI repository, all our code is rooted in the folder `spliceai/Canonical`. See the README in this folder for information on how to run the code in this repository
