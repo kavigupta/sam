@@ -1,13 +1,17 @@
+import os
+
 import numpy as np
 import torch
 import torch.nn as nn
 import tqdm
+from dconstruct import construct
+from permacache import permacache
 
+import modular_splicing
 from modular_splicing.eclip.test_motifs.names import get_testing_names
 from modular_splicing.eclip.trained_on_eclip.model import EclipMatchingModelAM
 from modular_splicing.legacy.remapping_pickle import permacache_with_remapping_pickle
 from modular_splicing.models.motif_model_stub import EclipMatchingModelMotifModelStub
-from modular_splicing.utils.construct import construct
 
 from .training_data import EclipMotifsDataset
 
@@ -87,6 +91,13 @@ class PretrainedEclipMotifModel(nn.Module):
         pass
 
 
+@permacache(
+    os.path.join(
+        os.path.dirname(modular_splicing.__path__[0]),
+        "intermediates/eclip/trained_on_eclip/models_trained_on_eclip",
+    ),
+    shelf_type="individual-file",
+)
 def models_trained_on_eclip(*, motif_names_source):
     """
     Produce a full list of models trained on eclip data.
