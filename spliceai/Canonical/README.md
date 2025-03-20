@@ -77,6 +77,12 @@ Use the same `$FA_LOCATION` as before. Then run
 
     PYTHONPATH=. python -m modular_splicing.data_pipeline.run evo_alt_dataset --ref-genome $FA_LOCATION
 
+### Intermediate data files for eCLIP training
+
+To generate dataset_intron_exon_annotations_test_0.h5 and dataset_intron_exon_annotations_train_all.h5 (necessary to train the eclip baselines and AM-E models. Note that you can avoid this if you follow the instructions in section `Pretrained Baselines`), run
+
+    PYTHONPATH=. python scripts/intron_exon_annotation.py
+
 ## Running Human Training Experiments
 
 ### LSSI models
@@ -95,6 +101,8 @@ You can train more of these using the instructions below using definitions
 - donor: msp-262da5
 
 ### Training Full models
+
+**Note**: You can avoid training some models by using the pretrained models you download and extract as per instructions in the `Pretrained Baselines` section.
 
 > If you did not use `--data-dir ./` you will have to modify the commands below by prefixing them with `MSP_DATA_DIR=$YOUR_DATA_DIR`.
 
@@ -116,13 +124,26 @@ To binarize these after training, use
 - AM: msp-274.790a3.x1
 - FM: msp-273.665a3.x1
 
+### Pretrained Baselines
 
-### NFM models
+#### NFM models
 
 NFM models take a while to train and the RBNS data for them is quite large, so you can find them at
     [this drive folder](https://drive.google.com/drive/folders/1DQWGqYLNAzB8EwOHkCIlG6sef5iEMAKa?usp=sharing).
 
 Place them in this directory as in `model/rbns-binary-model-TRA2A-21x2_4`.
+
+#### Eclip Baseline models
+
+These models also take a while to train. You can download them at [this drive folder](https://drive.google.com/drive/folders/1Vy9SvcGpXVa95Nm1K65C7bEJPDvfDsLu) and import them via
+
+    python scripts/import_zip.py $ZIP_LOCATION
+
+where `$ZIP_LOCATION` is the location of the zip file you downloaded. The files are
+
+- models_trained_on_eclip.zip: models trained on eCLIP data
+- msp-285a1_1.zip: the FM model trained using only the 18 overlapping RBPs with eCLIP
+- msp-287a2_1.zip: the AM-E model
 
 ### Reproducing the paper results
 
