@@ -3,13 +3,11 @@ import torch
 import torch.nn as nn
 import tqdm
 
-from modular_splicing.utils.construct import construct
-
-from modular_splicing.legacy.remapping_pickle import permacache_with_remapping_pickle
-from modular_splicing.eclip.trained_on_eclip.model import EclipMatchingModelAM
-
 from modular_splicing.eclip.test_motifs.names import get_testing_names
+from modular_splicing.eclip.trained_on_eclip.model import EclipMatchingModelAM
+from modular_splicing.legacy.remapping_pickle import permacache_with_remapping_pickle
 from modular_splicing.models.motif_model_stub import EclipMatchingModelMotifModelStub
+from modular_splicing.utils.construct import construct
 
 from .training_data import EclipMotifsDataset
 
