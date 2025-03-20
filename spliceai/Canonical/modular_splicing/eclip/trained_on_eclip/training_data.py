@@ -1,19 +1,17 @@
-from collections import defaultdict
 import itertools
+from collections import defaultdict
 
-from more_itertools import chunked
-
-import tqdm.auto as tqdm
 import numpy as np
+import tqdm.auto as tqdm
+from more_itertools import chunked
+from permacache import drop_if_equal, permacache
 
-from permacache import permacache, drop_if_equal
 from modular_splicing.dataset.h5_dataset import H5Dataset
-
+from modular_splicing.eclip.data.eclip_peaks import eclips_from_onehot
 from modular_splicing.eclip.data.eclips_for_testing import (
     create_control_eclips,
     extract_actual_range,
 )
-from modular_splicing.eclip.data.eclip_peaks import eclips_from_onehot
 from modular_splicing.eclip.test_motifs.names import peak_names
 from modular_splicing.utils.arrays import add_cl_in
 from modular_splicing.utils.intron_exon_annotation import (
