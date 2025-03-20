@@ -178,12 +178,19 @@ def extract_eclip_motif_patterns(
         **standard_kwargs,
         datapoint_extractor_spec=dict(
             type="BasicDatapointExtractor",
-            rewriters=[dict(type="eclip", params=eclip_params)],
+            rewriters=[
+                dict(
+                    type="AdditionalChannelDataRewriter",
+                    out_channel=["inputs", "motifs"],
+                    data_provider_spec=dict(type="eclip", params=eclip_params),
+                )
+            ],
         ),
         post_processor_spec=dict(
             type="FlattenerPostProcessor",
             indices=[("inputs", "x"), ("inputs", "motifs")],
         ),
+        iterator_spec=dict(type="FastIter", shuffler_spec=dict(type="DoNotShuffle")),
     )
     dset_annotation = H5Dataset(
         path=path_annotation,
@@ -192,6 +199,7 @@ def extract_eclip_motif_patterns(
         post_processor_spec=dict(
             type="FlattenerPostProcessor", indices=[("outputs", "y")]
         ),
+        iterator_spec=dict(type="FastIter", shuffler_spec=dict(type="DoNotShuffle")),
     )
     if amount is None:
         amount = len(dset_eclip)
